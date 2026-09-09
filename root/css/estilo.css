@@ -662,13 +662,16 @@ footer {
 	border: solid 3px var(--primSol);
 	margin: 0 auto;
 	border-radius: 15px;
-	width: 500px;
-	height: 400px;
+	width: 100%;
+    max-width: 500px;
+    height: 400px;
 	overflow: hidden;
 }
 
 #estamos iframe{
 	border: none;
+	width: 100%;
+    height: 100%;
 }
 
 		/*2.4.1?Contáctanos*/
